@@ -13,7 +13,16 @@
 					}
 				}
 			],
-			"actions": [],
+			"actions": [
+				{
+					"id": "rotate-clockwise",
+					"objectClass": "Sprite",
+					"sid": 923541556124142,
+					"parameters": {
+						"degrees": "4"
+					}
+				}
+			],
 			"sid": 731407767010942
 		},
 		{
