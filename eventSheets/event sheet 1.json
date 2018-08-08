@@ -13,41 +13,8 @@
 					}
 				}
 			],
-			"actions": [
-				{
-					"id": "rotate-clockwise",
-					"objectClass": "Sprite",
-					"sid": 923541556124142,
-					"parameters": {
-						"degrees": "4"
-					}
-				}
-			],
+			"actions": [],
 			"sid": 731407767010942
-		},
-		{
-			"eventType": "block",
-			"conditions": [
-				{
-					"id": "is-visible",
-					"objectClass": "Sprite",
-					"sid": 690068949125270
-				}
-			],
-			"actions": [],
-			"sid": 324097140226370
-		},
-		{
-			"eventType": "block",
-			"conditions": [
-				{
-					"id": "is-mirrored",
-					"objectClass": "Sprite",
-					"sid": 443901504230109
-				}
-			],
-			"actions": [],
-			"sid": 717932433071315
 		}
 	],
 	"sid": 529205434771733
