@@ -36,6 +36,18 @@
 			],
 			"actions": [],
 			"sid": 324097140226370
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-mirrored",
+					"objectClass": "Sprite",
+					"sid": 443901504230109
+				}
+			],
+			"actions": [],
+			"sid": 717932433071315
 		}
 	],
 	"sid": 529205434771733
